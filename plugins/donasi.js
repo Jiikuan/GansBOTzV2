@@ -10,16 +10,16 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
 const anjg = `
 *-------「 DONATE 」 -------*
 
-Hai kak ☺️ 
+Hai kak 😅 
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
 
-Berapapun donasi kalian akan sangat berarti 👍
+Berapapun donasi kalian akan sangat berarti :)
 
 Thanks!`
 const linkyt = `${ytlu}`
 const linkig = `${instalu}`
 const upt = `BOT Active During ${uptime}`
- let url = `https://telegra.ph/file/b1e1129b41affeb0c9778.jpg`
+ let url = `https://telegra.ph/file/d68fb42e3f7128a8b5096.jpg`
 let res = await fetch(url)
 let buffer = await res.buffer()
 let message = await prepareWAMessageMedia({ image: buffer }, { upload: conn.waUploadToServer })
