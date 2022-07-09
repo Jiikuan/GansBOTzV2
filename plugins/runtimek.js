@@ -16,7 +16,7 @@ let _uptime = process.uptime() * 1000
 ┌─〔 R U N T I M E 〕
 ├ Bot Aktif Selama ${uptime}
 │
-├⭔ *Deffri Gans* ⭔
+├⭔ *𝕵𝖎𝖎𝖐𝖚𝖆𝖓|𝙕𝙮𝙠𝙪𝙖𝙣* ⭔
 └────
 `,
   buttonText: 'Harga Sesuai Pasaran',
