@@ -19,7 +19,7 @@ let handler = async (m, { conn }) => {
 ║ 〘༺ List Harga༻〙
 ╠❥1 BULAN = 10.000
 ╠❥2 BULAN = 15.000
-╠❥Permanen = 20.000
+╠❥Permanen = 999.000
 ║ 
 ║ 〘༺ List Premium༻〙
 ╠❥1 Bulan = 5.000
