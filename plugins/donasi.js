@@ -10,10 +10,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
 const anjg = `
 *-------「 DONATE 」 -------*
 
-Hai kak 😅 
-Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
-
-Berapapun donasi kalian akan sangat berarti :)
+*_KEPADA YTH. PENGGUNA BOT SAYA YG BAIK HATI, BOLEHKAH SAYA MEMINTA DONASI SEDIKIT SAJA/LEBIH UTK MEMAJUKAN KUALITAS BOT INI, TRIMS 🤜🏻🤛🏻_*
 
 Thanks!`
 const linkyt = `${ytlu}`
